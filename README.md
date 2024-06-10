@@ -1,1 +1,1 @@
-Esse repositório tem base no terceiro módulo do curso github 4 woman e visa aprofundar conceitos de issues, discussions e pull requests.
+O presente diretório tem base no terceiro módulo do GitHub 4 Woman e visa aprofundar conceitos como issues, pull requests e discussions.
